@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "image":"https://www.meram.bel.tr/upload/medya/012323.jpg",
+        "title":"Şükran Mahallesi 4 Adet Tescilli Taşınmazın Rekonstrüksiyon İkmal İnşaat İşi",
+        "Description":"devam eden proje."
+    },
+    {
+        "id":2,
+        "image":"https://www.meram.bel.tr/upload/medya/2075a58d-1cbc-4a1c-bbe0-1f8bd01870de.jpg",
+        "title":"Meram Gödene Evleri Konut Yapı Kooperatifi",
+        "Description":"devam eden proje."
+    },
+    {
+        "id":3,
+        "image":"https://www.meram.bel.tr/upload/medya/caf62bb2-f347-4e27-b80c-e08a42ad8af1.jpg",
+        "title":"Bizim Meram Köyü Konut Yapı Kooperatifi",
+        "Description":"devam eden proje."
+    },
+    {
+        "id":4,
+        "image":"https://www.meram.bel.tr/upload/medya/7_15.jpg",
+        "title":"Meram Yaka Sosyal Tesisi",
+        "Description":"devam eden proje."
+    },
+    {
+        "id":5,
+        "image":"https://www.meram.bel.tr/upload/medya/rf13-jpg-1024X1024.jpg",
+        "title":"Turgutreis Mah. Kentsel Dönüşüm Kat Karşılığı Konut Yapımı",
+        "Description":"devam eden proje."
+    },
+    {
+        "id":6,
+        "image":"https://www.meram.bel.tr/upload/medya/DJI_0002.jpg",
+        "title":"10 Adet Açık Halı Saha Yapımı",
+        "Description":"tamamlanan proje."
+    },
+    {
+        "id":7,
+        "image":"https://www.meram.bel.tr/upload/medya/MG_4303_1200_1.jpg",
+        "title":"Yeniyol Trafik Parkı",
+        "Description":"tamamlanan proje."
+    },
+    {
+        "id":8,
+        "image":"https://www.meram.bel.tr/upload/medya/berlika2.jpg",
+        "title":"Berlika Trafik Eğitim Parkıi",
+        "Description":"tamamlanan proje."
+    },
+    {
+        "id":9,
+        "image":"https://www.meram.bel.tr/upload/medya/DJI_0002_1200.jpg",
+        "title":"Yenice Parkı",
+        "Description":"tamamlanan proje."
+    },
+    {
+        "id":10,
+        "image":"https://www.meram.bel.tr/upload/medya/001_1.jpg",
+        "title":"6 Adet Açık Halı Saha Yapılması",
+        "Description":"tamamlanan proje."
+    }
+
+]
